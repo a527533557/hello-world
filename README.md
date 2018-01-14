@@ -1,6 +1,1 @@
-# hello-world
-The first project i created
-
-
-Hello World
-time to die!
+一个ssm框架的小demo，一个简单的选课系统
